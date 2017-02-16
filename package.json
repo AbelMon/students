@@ -1,0 +1,18 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "Node express js mysql test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test",
+    "mysql",
+    "node"
+  ],
+  "author": "Rikolino",
+  "license": "ISC"
+}
